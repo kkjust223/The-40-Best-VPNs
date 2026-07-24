@@ -160,7 +160,7 @@
 
 - 9折优惠券：mcuE8uOq（年付套餐可用）
 
-👉 **[大哥云-VPN官网注册入口](https://so.dianlanla.com/dageyun)**
+👉 **[大哥云-VPN官网注册入口](https://a03.dgy02.com/#/register?code=YuPDLrvQ)**
 
 ![大哥云后台公告：2026.7.6 线路优化，请及时更新订阅](https://so.dianlanla.com/img/dageyun-notice.png)
 
