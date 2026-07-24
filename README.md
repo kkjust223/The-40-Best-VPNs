@@ -52,7 +52,7 @@
 
 星云VPN是一家专注于提供高速稳定网络服务的机场VPN，以其出色的稳定性、高速网络和高性价比赢得了广泛好评。
 
-👉 **[星云-VPN 官网注册入口](https://so.dianlanla.com/xingyun)**
+👉 **[星云-VPN 官网注册入口](https://www.xingyunjichang.com/#/register?code=3hMxoONj)**
 
 
 ![星云-VPN](https://github.com/user-attachments/assets/9eaa9c40-ab38-48ca-8235-209baa40f592)
@@ -108,7 +108,7 @@
 ---
 ## 闪连VPN
 
-👉 **[闪连VPN官网注册入口](https://so.dianlanla.com/shanlian)**
+👉 **[闪连VPN官网注册入口]()**
 
 <img width="1405" height="545" alt="image" src="https://github.com/user-attachments/assets/cdbd5b96-fa1c-472c-a592-4a5340e2f8c0" />
 
