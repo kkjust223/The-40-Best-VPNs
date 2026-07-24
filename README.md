@@ -192,7 +192,7 @@
 
 节点采用顶级线路最新加密技术集群防封敏感时期一样畅通无阻，海外团队运营安全，注册时候随便填写邮箱，邮箱没有验证 不会收集任何个人隐私。。
 
-👉 **[星链云VPN官网注册入口](https://so.dianlanla.com/xinglian)**
+👉 **[星链云VPN官网注册入口](https://m5.apxlc.com/#/register?code=psUi0wlU)**
 
 
 
