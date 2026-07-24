@@ -392,7 +392,7 @@ Fastlink目前协议支持SS和VMESS。按照教程推荐的默认客户端使�
 ---
 ## Taishan Net 泰山-VPN
 
-👉 **[泰山VPN官网注册入口](https://so.dianlanla.com/taishan)**
+👉 **[泰山VPN官网注册入口](https://jp.taishan.app/register?code=yYd5KOyF)**
 
 ![泰山机场4](https://github.com/user-attachments/assets/3ed737d6-5fc0-4d0a-8162-4e2385cb4006)
 
