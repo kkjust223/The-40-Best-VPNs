@@ -1531,7 +1531,7 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 
 协议方面，除常规的 Shadowsocks 与 AnyTLS 外，还提供自研的 V-Ninja；V-Ninja 需导入官方专用客户端才能使用，不想额外装客户端用 Shadowsocks 订阅即可。支付方式为支付宝与 USDT。
 
-👉 **[Coffee Cloud咖啡云VPN官网注册入口](https://so.dianlanla.com/coffeecloud)**
+👉 **[Coffee Cloud咖啡云VPN官网注册入口](https://aicoffee.app/#/register?code=0DPA6h7l)**
 
 
 
@@ -1634,7 +1634,6 @@ Riolu.443 精灵学院是一家2023年开业的翻墙-VPN，-VPN中独一家的S
 - 关注服务提供商的官方通知和更新
 - 适当降低对网络稳定性的期望
 - 避免在关键工作时段过度依赖这些工具
-![最新稳定高速VPN推荐：40款性价比翻墙梯子完全指南2](https://github.com/user-attachments/assets/2d7a8019-f63b-4c2a-8c06-b888d6ebf300)
 
 以上各款机场覆盖从高端专线到经济实惠各档位，可按自身需求与预算对照选择。
 
