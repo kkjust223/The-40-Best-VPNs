@@ -289,7 +289,7 @@ SSRDOG -VPN采用 Shadowsocks 专用协议，线路有 IEPL 和 IPLC 专线，�
 
 2025 年开服的杨帆云由海外团队搭建，主线路混搭 IEPL 隧道与 BGP 中转的双层架构，最高规格释放 2000Mbps 带宽，节点投放在香港、台湾、日本、新加坡与美国五地，账号能不能落到这些节点全看套餐档位 — 从 LV1 到旗舰版逐级解锁，越高档位接入的专线池越深，等级三与全 IEPL 之间的速率差距相当明显。订阅协议以 V2Ray / Vmess 为主，封装在自研客户端 UniClash 内使用，第三方 Clash Verge 与 Shadowrocket 在新版加密下连接已不稳定。流媒体与 ChatGPT 的解锁能力随节点等级浮动 
 
-👉 **[杨帆云VPN官网注册入口](https://so.dianlanla.com/yangfan)**
+👉 **[杨帆云VPN官网注册入口](https://ml.yfqz1.net/register?code=15dEcYZF)**
 
 
 
