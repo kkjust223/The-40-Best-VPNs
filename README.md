@@ -246,7 +246,7 @@ SSRDOG -VPN采用 Shadowsocks 专用协议，线路有 IEPL 和 IPLC 专线，�
 - 全线路支持：用户可以根据需要自由选择任何线路，灵活性高。
 - 峰值速率高达1000Mbps：提供高速的网络连接，满足您的高速上网需求。
 
-👉 **[SSRDOG-VPN官网注册入口](https://so.dianlanla.com/ssrdog)**
+👉 **[SSRDOG-VPN官网注册入口](https://st2.hosbb.com/#/register?code=0jtB3YsN)**
 
 
 
