@@ -364,7 +364,7 @@ Fastlink目前协议支持SS和VMESS。按照教程推荐的默认客户端使�
 
 支付方式支持支付宝和微信。
 
-👉 **[fastlink-VPN官网注册入口](https://so.dianlanla.com/fastlink)**
+👉 **[fastlink-VPN官网注册入口](https://a01.flaff9.cc/auth/register?code=Y8R3HmQp)**
 
 
 
