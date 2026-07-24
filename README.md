@@ -324,7 +324,7 @@ SSRDOG -VPN采用 Shadowsocks 专用协议，线路有 IEPL 和 IPLC 专线，�
 - **流媒体解锁**：支持解锁Netflix、Hulu等流媒体服务。
 - **工单客服支持**：提供快速的技术支持。
 
-👉 **[极客云VPN官网注册入口](https://so.dianlanla.com/jikeyun)**
+👉 **[极客云VPN官网注册入口](https://jikefind.net/auth/register?code=PyeQ)**
 
 
 
